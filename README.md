@@ -30,7 +30,7 @@ Gripped by terror, I couldn't see it at the time, but he was on to something. Th
 (Readers will be relieved to learn the patient survived. We gave him more blood, and used inotropes and vasopressors to keep it going round and round, buying time for the surgeons saved the day.)
 
 
-\* *Literally the only time I saw him wearing trousers was when he had to give evidence to coroner in court.*
+\* *Except for scrub pants in the OR, the only time I saw him wearing trousers was when he had to give evidence in Coronor's court.*
 
 
 
