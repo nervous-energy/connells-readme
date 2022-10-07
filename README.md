@@ -15,11 +15,11 @@ I trained as a medical doctor before branching into technology, product and entr
 
 ### Algorithms
 
-I once worked for an ICU consultant whose image is etched into my for two reasons. First, when not wearing scrubs, he only ever wore shorts – no matter the weather or time of year, shorts*. Second, he had an acerbic wit that you didn't want to be on the wrong end of. One day, over coffee in the department he began beating the table and holding forth: "Medicine is easy! just make sure the air is going in and out, and the blood is going round and round!" There was much laughter. The next day I needed his help with a deteriorating patient, and I often think about our exchange:
+I once worked for an ICU consultant whose image is etched into my for two reasons. Firstly, when not wearing scrubs, he only ever wore __shorts__ – no matter the weather or time of year*. Second, he had an acerbic wit that you didn't want to be on the wrong end of. One day, over coffee in the department he began beating the table and holding forth: "Medicine is easy! just make sure the air is going in and out, and the blood is going round and round!" There was much laughter. The next day I needed his help with a deteriorating patient, and I often think about our exchange:
 
 
 ```
-ME (worried): I need help... cardiac failure, GI bleed... <blah blah ....>
+ME (worried): I need help... cardiac failure... GI bleed... [blah blah ...]
 CONSULTANT: Is the air going in and out?
 ME: (confused) ...uh, yeah...
 CONSULTANT: Good. Is the blood going round and round?
@@ -29,9 +29,10 @@ CONSULTANT (interrupting): Make the blood go round and round!
 
 Gripped by terror, I couldn't see it at the time, but he was on to something. The problem *was* complex, with lots of details, numbers and twists in the story. But on another, deeper level, it was quite simple: the patient will die if they can't breath or if their blood pressure crashes.
 
-(Readers will be relieved to learn the patient survived. We gave him more blood, and used inotropes and vasopressors to keep it going round and round. ...Before the surgeons saved the day)
+(Readers will be relieved to learn the patient survived. We gave him more blood, and used inotropes and vasopressors to keep it going round and round, buying time for the surgeons saved the day.)
 
-\* *Literally* the only time I saw him wearing trousers was when he had to give evidence to coroner.
+
+\* *Literally the only time I saw him wearing trousers was when he had to give evidence to coroner.*
 
 
 
