@@ -25,7 +25,7 @@ CONSULTANT (interrupting): Make the blood go round and round!
 ```
 
 
-Gripped by terror, I couldn't see it at the time, but he was on to something. The problem *was* complex, with lots of details, numbers and twists in the story. But on another, deeper level, it was quite simple: the patient will die if they can't breath or if their blood pressure crashes. 
+I couldn't see it at the time, in the grips of terror, but he was on to something. The problem *was* complex, with lots of details, numbers and twists in the story. But on another, deeper level, it was quite simple: the patient will die if they can't breath or if their blood pressure crashes. 
 
 (Readers will be relieved to learn the patient survived. We gave him more blood, and used inotropes and vasopressors to keep it going round and round, buying time for the surgeons saved the day.)
 
@@ -35,7 +35,7 @@ Gripped by terror, I couldn't see it at the time, but he was on to something. Th
 
 
 
-## The craft
+## A Craft
 
 This early lesson in algorithmic thinking was hammered home to me many more times as a doctor. And yet, the profession is anything but robotic. Good doctors understand people. The art of medicine is combining knowledge and technical skills with incredibly difficult conversations. The same lessons hold true in business. 
 
