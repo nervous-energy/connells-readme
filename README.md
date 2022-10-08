@@ -1,16 +1,12 @@
-# Connell's Manager ReadMe [WIP] 
+# Connell's Manager Readme [WIP] 
 
 All rights reserved
 
 
-#### Intention
-This readme outlines how I approach about leadership and people management. The principles I describe are ideals, and I often fall short! Finally, I am, and always will be a student, with much to learn, so this is a living document whose contents may change over time.
-
-
-
-## About me
+## About me & this Readme
 I'm Connell. I trained as a medical doctor before branching into software engineering, product and entrepreneurship. Though today medicine takes up only a small fraction of my time, it is a huge part of who I am, and how I think. 
 
+This readme outlines how I think about leadership, strategy and people management. The principles I describe are ideals, and I often fall short! I am, and always will be a student, with much to learn, so this is a living document whose contents may change over time.
 
 ## Algorithms
 
@@ -33,9 +29,9 @@ I couldn't see it at the time, but he was on to something. The problem *was* com
 
 
 
-## The Craft
+## It's a Craft
 
-This early lesson in algorithmic thinking was hammered home to me many more times as a doctor. Medical practice is about recognising patterns and approaching problems in a structured way. And yet the profession is anything but robotic – good doctors understand people. The *craft* of medicine is about __combining knowledge and technical skill with difficult, high-stakes conversations__. The same lessons hold true in business leadership.
+This early lesson in algorithmic thinking was hammered home to me many more times as a doctor. Clinical practice is about recognising patterns and approaching problems in a structured way. But the profession is anything but robotic – good doctors understand people. The *craft* of medicine is about __combining knowledge and technical skill with difficult, high-stakes conversations__. The same lessons hold true in business leadership.
 
 #### A diagnostic pathway for businesses:
 From experience I think most of the big organisational problems can be diagnosed by asking the following:
@@ -57,11 +53,14 @@ Organisations that get these things right, win.
 ## Leadership
 *__Great leaders serve.__*
 
-The archetype of the all-seeing, all-powerful, übermensch executive is bullshit. Steve Jobs and Elon Musk are extraordinary, but they are too often venerated in a way that shows no understanding of their actual gifts, and total ignorance of their weaknesses. 
+The archetype of the all-seeing, all-powerful, executive is bullshit. Steve Jobs and Elon Musk are extraordinary, but they are too often venerated in a way that shows no understanding of their actual gifts, and total ignorance of their weaknesses. 
 
-The role of leader isn't to wield power, but to distribute it. I can't amass all the information and make every decision, instead I scale my time by empowering others and ensuring decisions are made at the right level, by the people with the right expertise and context. This means my goal is to find great people, enable them to do their best work, and support them to grow. I do all of this in the context of the team (discussed below).
+The role of leader isn't to wield power, but to distribute it. I can't amass all the information and make every call, instead I scale my time by empowering others, and ensuring decisions are made at the right level by the people with the right expertise and context. This means my goal is to find great people, enable them to do their best work, and support them to grow. I do all of this in the context of the team (discussed below).
 
 I try to keep weekly 1-1s and use that time to focus on the person, not the business. There is more to life than work, though one influences the other, so I'm interested in your personal life, if you're willing to share. I care about your family, interests, hobbies, what you did on the weekend and so on. When it comes to work I'll ask you to bring any problems you have, and we'll work through them together. I'll set expectations about your role, give feedback when I think something should be better, and set goals with you. I want every person to have the opportunity to be challenged, thrive and grow. Psychology safety and trust is paramount. As I am candid with you, I expect no less in return! The most important feedback of my career has come from the people I have managed.
+
+#### Being Let Go
+Sometimes it doesn't work out. Being let go is not easy, its emotionally painful and creates personal uncertainty. My goal when making these hard decisions is to optimise for you. First, it should never be a surprise. If I'm not giving clear feedback and setting expectations, I am failing. Second, when the decision is made, I will do what I can to support you. Your diginity matters, and just because it hasn't worked out in one place, doesn't mean you won't succeed elsewhere. I have exited several people who have gone on to have flourishing careers in other companies. After exit, I am still available to you if you would like feedback from me, or to give me feedback.
 
 
 ## Teams
@@ -70,14 +69,14 @@ I try to keep weekly 1-1s and use that time to focus on the person, not the busi
 
 Teams change the world, and so my leadership strives to be 'team-first'. I try to optimise for teams at every level: by hiring collaborative people, by setting cultural standards for inclusion, insisting on candid communication, and by empowering groups to take ownership.
 
-When it goes right, the results are amazing. Great teams embrace responsibility, accountability and ownership. They are hungry for challenges and move fast. Best of all, they celebrate their wins, commiserate their losses, and challenge themselves to get better. I expect everyone I work with to be 100% behind the team.
+When it goes right, the results are amazing. Great teams embrace responsibility, accountability and ownership. They are hungry for challenges and move fast. Best of all, they celebrate their wins, commiserate their losses, and challenge themselves to get better. Teams are so much more important than any individual (including me!) so I expect everyone I work with to be 100% committed to the team first.
 
 
 ## Systems
 
 *__Optimise for alignment, not control__*
 
-At scale communication become harder, coordination tends to break down, and departments can slip into silos. A common response is for executives to create more processes, rules and meetings... but this causes even more damage. The way out of this swamp is to accept that scale has tradeoffs, and focus on *alignment*. I coach teams to think in terms of [systems](https://www.youtube.com/watch?v=OqEeIG8aPPk), and build scalable interfaces that deliver the outcomes the business wants. Not everyone can know everything, but everyone needs to know the company's strategy, and be armed with enough context to be effective and create impact.
+At scale communication become harder, coordination tends to break down, and departments can slip into silos. A common response is for executives to create more processes, rules and meetings... but this causes even more damage. The way out of this swamp is to accept that scale has tradeoffs, and focus on *alignment*. I coach teams to think in terms of [systems](https://www.youtube.com/watch?v=OqEeIG8aPPk), and to build scalable interfaces that deliver the outcomes the business wants. Not everyone can know everything, but everyone needs to know the company's strategy, and be armed with enough context to be effective and create impact.
 
 
 
@@ -87,20 +86,40 @@ At scale communication become harder, coordination tends to break down, and depa
 
 Although plans never work out the way we hoped, the act of planning is how we decide what's important and where we should focus our efforts. Good strategy defines a clear problem and describes how the organisation intends to solve it. Done well, it results in focus, alignment, and objectives, all of which are essential for successful execution. 
 
-My view is that company strategy and objectives flow from the executive level downwards. But *alignment* is achieved from the bottom-up. Once the company strategy has been scrunitised, set and communicated, I enable teams and departments to set their own strategy and objectives that feed in (ownership!). 
+My view is that company strategy and objectives flow from the executive level downwards. But *alignment* is achieved from the bottom-up. Once the company strategy has been scrunitised, finalised and communicated, I enable teams and departments to set their own strategy and objectives that feed in (ownership!). 
 
-__OKRs__ follow naturally from strategy. Their purpose is to maximise ambition, ownership, alignment, focus, and accountability over a 2-3m period. They are not a measure of team performance, and never a stick to beat people with. I like OKRs, but others frameworks exist.
-
+__OKRs__ follow naturally from strategy. Their purpose is to __enable execution__ by maximising focus, alignment and accountability over a 2-3m period. OKRs should be ambitious but they are *not* a measure of individual performance, and never a stick to beat teams with. Any initiatve or work that doesn't contribute to a KR should ring alarm bells. OKRs should frame our day-to-day work and we will talk about them often. *(NB: I like OKRs, but similar frameworks are also valid)*
 
 
 ## Execution & Learning
+Every tech company and team *says* they are Agile, but it's very hard to achieve and sustain (I have plenty of scars, and have learned a lot from great PMs, TPMs and experienced engineers). 
+
+"Agile" gets conflated with 'Scrum', 'Lean', 'SAFE' and other (complex) frameworks. It's none of these things. It's a problem solving philosophy that encourages us to focus on value, deliver it incrementally and quickly, get feedback / learn, and repeat the cycle. Frameworks can offer a way to implement agile priniciples, but ['don't mistake the finger pointing at the moon for the moon.'](https://www.goodreads.com/quotes/843488-bhikkhus-the-teaching-is-merely-a-vehicle-to-describe-the). We can always challenge ourselves to be more agile: to learn faster, correct course, and deliver impact.
 
 
 ## Culture
+Culture matters as much as __anything__ else. Great people want to work in organisations that are mission-driven, fun, psychologically safe, and *challenging*. I expect everyone in my team to want these things and live these values, anything less than this is a red flag. 
+
+## Recommended Reading / Watching / Listening / Following
+Most of these are well-known classics. Don't be afraid to skim.
+*  __Creating Strategy:__ [Good Strategy/Bad Strategy by Richard Rumelt](https://www.amazon.co.uk/Good-Strategy-Bad-Difference-Matters/dp/1846684811 "Amazon Link")
+* __OKRs:__ [Measure What Matters by John Doerr](https://www.amazon.co.uk/Measure-What-Matters-Simple-Drives/dp/B07JKF24C1/ "Amazon Link")
+* __Systems Thinking:__ [Russ Ackoff on Youtube! (12m)](https://www.youtube.com/watch?v=OqEeIG8aPPk)
+* __Startups:__  [The Lean Startup by Eric Reis](https://www.amazon.co.uk/Lean-Startup-Innovation-Successful-Businesses-ebook) (*the* classic startup text)
+* __Product:__ [Inspired by Marty Cagan](https://www.amazon.co.uk/Inspired-Create-Tech-Products-Customers/dp/1119387507/) (great, but most of best stuff is in the first few chapters)
+* __Teams:__ [The Five Dysfunctions of a Team, by P Lencioni](https://www.amazon.co.uk/Five-Dysfunctions-Team-Leadership-Lencioni/dp/0787960756) (the best stuff is very early, skim the rest)
+* __Coaching:__ [The Trillion Dollar Coach](https://www.amazon.co.uk/Trillion-Dollar-Coach-Leadership-Handbook/dp/1473675987/)
+* __Culture:__ [The Culture Code by D. Coyle](https://www.amazon.co.uk/Culture-Code-Secrets-Highly-Successful/dp/1847941273/) (a good short read, mostly great, but not a how-to guide!)
+* __Business & VC:__ [The Acquired Podcast](https://www.acquired.fm/) (brilliant stories, deeply researched)
+* __Business Strategy:__ [7 Powers: The Foundations of Business Strategy](https://www.amazon.co.uk/7-Powers-Foundations-Business-Strategy/dp/0998116319/) (brilliant analysis, but not a guide)
+* __Agile:__ [Troubleshooting Agile Podcast Douglas Squirrel & Jeffery Fredrick](https://agileconversations.com/troubleshooting-agile-podcast/) (An very underrated podcast duo)
+* __Process:__ [The Goal by Eliyahu M. Goldratt](https://www.amazon.co.uk/Goal-Process-Ongoing-Improvement/dp/0566086654) (a bad novel, but great engineering textbook)
+* __What Motivates People:__ [Daniel Pink & RSA on Youtube (10m)](https://www.youtube.com/watch?v=u6XAPnuFjJc) (also a [book!](https://www.amazon.co.uk/Drive-Surprising-Truth-About-Motivates/dp/1786891700/))
+* __Biography:__ [Boyd: The fighter pilot who changed the art of war](https://www.amazon.co.uk/Boyd-Fighter-Pilot-Who-Changed/) (inventor of the OODA loop... *maybe partially responsible for brexit?*)
+
+__Others__
+The Lord of the Rings; The Expanse (books & TV); Culture series by Iain M Banks; The Three Body Problem; The Rest is History Podcast; Beethoven, especially 6th,7th,9th; Koyaanisqatsi; War of Art; Gates of Fire; Scruton Why Beauty Matters;  vgdunkey; Branagh as Henry V; Orwell; Hemmingway; Hyperion Cantos; Hitchens; Harris; Stewart Lee; The Count of Monte Christo; Surely you're joking Mr Feynman!; Dune; S. Heaney - Cure at Troy & Postscript; The beginning of infinity; Colm Tóibín; Doyle: A star called Henry;
 
 
-## Recommended Reading / Watching / Listening
-*  __Strategy:__ [Good Strategy/Bad Strategy by Richard Rumelt](https://www.amazon.co.uk/Good-Strategy-Bad-Difference-Matters/dp/1846684811 "Amazon Link")
-* __OKRs:__ [Measure What Matters by John Doerr](https://www.amazon.co.uk/Measure-What-Matters-Simple-Drives/dp/B07JKF24C1/ "Amazon Link") (the classic)
-* __Systems Thinking:__ [Russ Ackoff on Youtube!](https://www.youtube.com/watch?v=OqEeIG8aPPk)
-* 
+## Acknowledgements
+I've been fortunate to have coaching and counsel from several great people. Dr Pepe Catlan, Bruno Tavares, Douglas Squirrel, Julia Hawkins & Steve Beck. Plus a ton of feedback and inspiration from excellent product leaders and engineers.
