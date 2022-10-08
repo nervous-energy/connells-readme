@@ -4,7 +4,7 @@
 
 
 #### Intention
-*This readme outlines how I approach about leadership and people management. The priniciples I describe are ideals, I often fall far-short. Finally: I am, and always will be a student, with much to learn, hence this is a living document whose contents may change over time.*
+This readme outlines how I approach about leadership and people management. The principles I describe are ideals, and I often fall short! Finally, I am, and always will be a student, with much to learn, so this is a living document whose contents may change over time.
 
 
 
@@ -27,7 +27,7 @@ CONSULTANT (interrupting): Make the blood go round and round!
 ```
 
 
-I couldn't see it at the time, but he was on to something. The problem *was* complex, with lots of details, numbers and twists in the story. But on another, deeper level, it was quite simple: the patient will die if they can't breath or if their blood pressure crashes. I was being reminded of the basics: airway, breathing, circulation.
+I couldn't see it at the time, but he was on to something. The problem *was* complex, with lots of details, numbers and plot twists. But on another, deeper level, it was quite simple: the patient will die if they can't breath or if their blood pressure crashes. In crisis, I was being reminded of the basics: airway, breathing, circulation. 
 
 \* *Except for scrub pants in the OR, the only time I saw him wearing trousers was when he had to give evidence in Coronor's court.*
 
@@ -35,10 +35,10 @@ I couldn't see it at the time, but he was on to something. The problem *was* com
 
 ## The Craft
 
-This early lesson in algorithmic thinking was hammered home to me many more times as a doctor. And yet, the profession is anything but robotic. Good doctors understand people. The craft of medicine is combining knowledge and technical skills with incredibly difficult conversations. The same lessons hold true in business leadership. 
+This early lesson in algorithmic thinking was hammered home to me many more times as a doctor. Medical practice is about recognising patterns and approaching problems in a highly structured way. And yet, the profession is anything but robotic – good doctors understand people. The *craft* of medicine is about combining knowledge and technical skill with difficult, high-stakes conversations. The same lessons hold true in business leadership.
 
-
-Most organisational problems can be diagnosed by asking the following questions.
+#### A diagnostic pathway for businesses:
+I encourage everyone who works with me to ask hard questions often. From experience I think most of the big organisational problems can be diagnosed by asking the following:
 
 |               | Question                        |
 | --------------|---------------------------------|
@@ -49,8 +49,7 @@ Most organisational problems can be diagnosed by asking the following questions.
 | __Execution__ | Are we learning fast enough?    |
 
 
-
-Organisations that get these things right, win. So I encourage my teams to ask them often.
+Organisations that get these things right, win.
 
 
 
@@ -58,11 +57,11 @@ Organisations that get these things right, win. So I encourage my teams to ask t
 ## Leadership
 *__Great leaders serve.__*
 
-The archetype of the all-seeing, all-powerful, übermensch executive is bullshit. Steve Jobs and Elon Musk are extraordinary, but they are venerated in a way that shows no understanding of their true gifts, and total ignorance of their weaknesses. 
+The archetype of the all-seeing, all-powerful, übermensch executive is bullshit. Steve Jobs and Elon Musk are extraordinary, but they are too often venerated in a way that shows no understanding of their actual gifts, and total ignorance of their weaknesses. 
 
-The role of leader isn't to wield power, but to distribute it. Instead of massing information and making every decision, great leaders empower their people to take ownership. They scale their time by ensuring that decisions are made at the right level by people with the right expertise and context.
+The role of leader isn't to wield power, but to distribute it. Instead of amassing information and making every decision, strong leaders empower their people to take ownership. They scale their time by ensuring that decisions are made at the right level by people with the right expertise and context.
 
-As a leader, my goal is to find great people, enable them to do their best work, and to help them grow. I do all of this in the context of the team (discussed below).
+My goal is to find great people, enable them to do their best work, and to help them grow. I do all of this in the context of the team (discussed below).
 
 I try to keep weekly 1-1s and use that time to focus on the person, not the business. There is more to life than work, though one influences the other, so I'm interested in your personal life, if you're willing to share. I'll ask about your family, interests, hobbies, what you did on the weekend and so on. When it comes to work I'll ask you to bring any problems you have, and we'll work through them together. I'll set expectations about your role, give feedback when I think something should be better, and set goals with you. I want every person to have the opportunity to be challenged, thrive and grow. Psychology safety and trust is paramount. As I am candid with you, I expect no less in return!
 
