@@ -88,13 +88,14 @@ At scale communication become harder, coordination tends to break down, and depa
 
 *__"Plans are worthless, but planning is everything." - Dwight D. Eisenhower__*
 
-Good strategy defines a clear problem and describes how the organisation intends to solve it. Done well, it creates focus and alignment, and enables goal-setting all of which are essential for successful execution. Without real strategy companies are rudderless. They flit from idea to idea without learning; they fail to deploy capital effectively; and they never give themselves a chance. 
+Although Plans never work out the way we hoped, but the act of planning is how we decide what's important, and where we will focus our efforts. Good strategy defines a clear problem and describes how the organisation intends to solve it. Done well, it creates focus and alignment, and enables goal-setting, all of which are essential for successful execution. 
 
-Plans never work out the way we hoped, but the act of planning is how we decide what's important, and where we will focus our efforts. When working on company strategy, it flows from the executive level downwards. But once this is achieved and has been effectively communicated, I enable teams and departments to set their own strategy and objectives from the bottom-up. These workshops are excellent opportunities for alignment, ownership and committment. 
+Company strategy and objectives flow from the executive level downwards. But *alignment* is achieved from the bottom-up. Once the company strategy has been scrunitised and communicated, I enable teams and departments to set their own strategy and objectives (ownership!). 
 
-This is summary only, there is a lot more to this topic, including: the scope of company / departmental strategy, managing stakeholders, ensuring committment, the relationship between strategy and OKRs, as well as tracking and reporting of key results.
+__OKRs__ follow naturally from strategy. Their purpose is to maximise ambition, ownership, alignment, focus, and accountability over a 2-3m period. They are not a measure of team performance, and never a stick to beat people with. I like OKRs, but others frameworks exist.
 
-References:
+__References:__
+
  __Strategy:__ [Good Strategy/Bad Strategy by Richard Rumelt](https://www.amazon.co.uk/Good-Strategy-Bad-Difference-Matters/dp/1846684811 "Amazon Link")
  
 __OKRs:__ [Measure What Matters](https://www.amazon.co.uk/Measure-What-Matters-Simple-Drives/dp/B07JKF24C1/ "Amazon Link")
