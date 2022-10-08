@@ -1,12 +1,14 @@
-# Connell's Manager Readme [WIP] 
+# Connell's Manager Readme
 
-All rights reserved
+*© Connell Locke 2022. All rights reserved*
 
+__Intro:__
 
-## About me & this Readme
-I'm Connell. I trained as a medical doctor before branching into software engineering, product and entrepreneurship. Though today medicine takes up only a small fraction of my time, it is a huge part of who I am, and how I think. 
+This readme outlines how I think about leadership, strategy and people management. The principles I describe are ideals, and I often fall short! I am, and always will be a student, with much to learn, so this is a living document whose contents will change over time.
 
-This readme outlines how I think about leadership, strategy and people management. The principles I describe are ideals, and I often fall short! I am, and always will be a student, with much to learn, so this is a living document whose contents may change over time.
+## About me
+I'm Connell. I was born and raised in Belfast, but have lived in London for more than 10 years. I trained as a medical doctor before branching into software engineering, product and entrepreneurship. Though today medicine takes up only a small fraction of my time, it is a huge part of who I am, and how I think. 
+
 
 ## Algorithms
 
@@ -60,7 +62,7 @@ The role of leader isn't to wield power, but to distribute it. I can't amass all
 I try to keep weekly 1-1s and use that time to focus on the person, not the business. There is more to life than work, though one influences the other, so I'm interested in your personal life, if you're willing to share. I care about your family, interests, hobbies, what you did on the weekend and so on. When it comes to work I'll ask you to bring any problems you have, and we'll work through them together. I'll set expectations about your role, give feedback when I think something should be better, and set goals with you. I want every person to have the opportunity to be challenged, thrive and grow. Psychology safety and trust is paramount. As I am candid with you, I expect no less in return! The most important feedback of my career has come from the people I have managed.
 
 #### Being Let Go
-Sometimes it doesn't work out. Being let go is not easy, its emotionally painful and creates personal uncertainty. My goal when making these hard decisions is to optimise for you. First, it should never be a surprise. If I'm not giving clear feedback and setting expectations, I am failing. Second, when the decision is made, I will do what I can to support you. Your diginity matters, and just because it hasn't worked out in one place, doesn't mean you won't succeed elsewhere. I have exited several people who have gone on to have flourishing careers in other companies. After exit, I am still available to you if you would like feedback from me, or to give me feedback.
+Sometimes it doesn't work out. Being let go is not easy, its emotionally painful and creates personal uncertainty. My goal when making these hard decisions is to optimise for you. First, it should never be a surprise. If I'm not giving clear feedback and setting expectations, I am failing. Second, when the decision is made, I will do what I can to support you. Your dignity matters, and just because it hasn't worked out in one place, doesn't mean you won't succeed elsewhere. I have exited several people who have gone on to have flourishing careers in other companies. After exit, I am still available to you if you would like feedback from me, or to give me feedback.
 
 
 ## Teams
@@ -86,15 +88,15 @@ At scale communication become harder, coordination tends to break down, and depa
 
 Although plans never work out the way we hoped, the act of planning is how we decide what's important and where we should focus our efforts. Good strategy defines a clear problem and describes how the organisation intends to solve it. Done well, it results in focus, alignment, and objectives, all of which are essential for successful execution. 
 
-My view is that company strategy and objectives flow from the executive level downwards. But *alignment* is achieved from the bottom-up. Once the company strategy has been scrunitised, finalised and communicated, I enable teams and departments to set their own strategy and objectives that feed in (ownership!). 
+My view is that company strategy and objectives flow from the executive level downwards. But *alignment* is achieved from the bottom-up. Once the company strategy has been scrutinised, finalised and communicated, I enable teams and departments to set their own strategy and objectives that feed in (ownership!). 
 
-__OKRs__ follow naturally from strategy. Their purpose is to __enable execution__ by maximising focus, alignment and accountability over a 2-3m period. OKRs should be ambitious but they are *not* a measure of individual performance, and never a stick to beat teams with. Any initiatve or work that doesn't contribute to a KR should ring alarm bells. OKRs should frame our day-to-day work and we will talk about them often. *(NB: I like OKRs, but similar frameworks are also valid)*
+__OKRs__ follow naturally from strategy. Their purpose is to __enable execution__ by maximising focus, alignment and accountability over a 2-3m period. OKRs should be ambitious but they are *not* a measure of individual performance, and never a stick to beat teams with. Any initiative or work that doesn't contribute to a KR should ring alarm bells. OKRs should frame our day-to-day work and we will talk about them often. *(NB: I like OKRs, but similar frameworks are also valid)*
 
 
 ## Execution & Learning
-Every tech company and team *says* they are Agile, but it's very hard to achieve and sustain (I have plenty of scars, and have learned a lot from great PMs, TPMs and experienced engineers). 
+Every tech company and team *says* they are Agile, but it's very hard to achieve and sustain (I have plenty of scars, and have learned a lot from great PMs, TPMs and experienced engineers!). 
 
-"Agile" gets conflated with 'Scrum', 'Lean', 'SAFE' and other (complex) frameworks. It's none of these things. It's a problem solving philosophy that encourages us to focus on value, deliver it incrementally and quickly, get feedback / learn, and repeat the cycle. Frameworks can offer a way to implement agile priniciples, but ['don't mistake the finger pointing at the moon for the moon.'](https://www.goodreads.com/quotes/843488-bhikkhus-the-teaching-is-merely-a-vehicle-to-describe-the). We can always challenge ourselves to be more agile: to learn faster, correct course, and deliver impact.
+"Agile" gets conflated with 'Scrum', 'Lean', 'SAFE' and other (complex) frameworks. It's none of these things. It's a problem solving philosophy that encourages us to focus on value, deliver it incrementally and quickly, get feedback / learn, and repeat the cycle. Frameworks can offer a way to implement agile principles, but ['don't mistake the finger pointing at the moon for the moon.'](https://www.goodreads.com/quotes/843488-bhikkhus-the-teaching-is-merely-a-vehicle-to-describe-the). We can always challenge ourselves to be more agile: to learn faster, correct course, and deliver impact.
 
 
 ## Culture
