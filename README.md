@@ -10,9 +10,9 @@
 I'm Connell. I was born and raised in Belfast, but have lived in London for more than 10 years. I trained as a medical doctor before branching into software engineering, product and entrepreneurship. Though today medicine takes up only a small fraction of my time, it is a huge part of who I am, and how I think. 
 
 
-## Algorithms
+## Algorithms & ICU
 
-I once worked for an ICU consultant with an acerbic wit, and who only ever wore __shorts__ – no matter the weather or time of year*. One day, over coffee in the department (wearing shorts) he suddenly declared: "Medicine is easy! just make sure the air is going in and out, and the blood is going round and round!" There was much laughter amongst the junior staff. The next day I needed his help with a deteriorating patient:
+I once worked for an ICU consultant with an acerbic wit, and who only ever wore shorts – no matter the weather or time of year*. One day, over coffee in the department (wearing shorts) the team was discussing a difficult case when he suddenly declared: "Medicine is easy! just make sure the air is going in and out, and the blood is going round and round!" There was much laughter. The next day I needed his help with a deteriorating patient:
 
 
 ```
