@@ -31,13 +31,11 @@ I couldn't see it at the time, but he was on to something. The problem *was* com
 
 
 
-## Craft
+## The Craft
 
-This early lesson in algorithmic thinking was hammered home to me many more times as a doctor. And yet, the profession is anything but robotic. Good doctors understand people. The craft of medicine is combining knowledge and technical skills with incredibly difficult conversations. The same lessons hold true in business. 
+This early lesson in algorithmic thinking was hammered home to me many more times as a doctor. And yet, the profession is anything but robotic. Good doctors understand people. The craft of medicine is combining knowledge and technical skills with incredibly difficult conversations. The same lessons hold true in business leadership. 
 
 
-
-### A viewpoint:
 Most organisational problems can be diagnosed by asking the following questions.
 
 |               | Question                        |
@@ -50,7 +48,8 @@ Most organisational problems can be diagnosed by asking the following questions.
 
 
 
-Organisations that get these things right, win. I encourage everyone I work with to ask these questions frequently!
+Organisations that get these things right, win. So I encourage my teams to ask them often.
+
 
 
 
@@ -74,7 +73,7 @@ Teams change the world, and so my leadership strives to be 'team-first'. I try t
 
 Great teams are rare! Leaders need to set the right conditions, which is very hard, but the people in the team also need to put in the work. Bruce Tuckman famously developed the model of 'Forming, Storming, Norming, and Performing', which describes how effective teams evolve. I refer to it often, and encourage all the teams I work with to think about it.
 
-When it goes right, the results are amazing. Great teams embrace responsibility and accountability, they are hungry for challenges and move fast. Best of all, they celebrate their wins, commiserate their losses, and challenge themselves to get better.
+When it goes right, the results are amazing. Great teams embrace responsibility and accountability, they are hungry for challenges and move fast. Best of all, they celebrate their wins, commiserate their losses, and challenge themselves to get better. If you work with me, I expect you to be 100% behind the team.
 
 
 ## Systems
@@ -107,5 +106,9 @@ __OKRs:__ [Measure What Matters](https://www.amazon.co.uk/Measure-What-Matters-S
 
 ## Culture
 
+
+## Recommended Reading / Watching / Listening
+Below are some of the other books and artworks I often recommend.
+* 
 
 
