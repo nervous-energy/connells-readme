@@ -88,7 +88,7 @@ At scale communication become harder, coordination tends to break down, and depa
 
 *__"Plans are worthless, but planning is everything." - Dwight D. Eisenhower__*
 
-Although plans never work out the way we hoped, but the act of planning is how we decide what's important and where we should focus our efforts. Good strategy defines a clear problem and describes how the organisation intends to solve it. Done well, it results in focus, alignment, and objectives, all of which are essential for successful execution. 
+Although plans never work out the way we hoped, the act of planning is how we decide what's important and where we should focus our efforts. Good strategy defines a clear problem and describes how the organisation intends to solve it. Done well, it results in focus, alignment, and objectives, all of which are essential for successful execution. 
 
 Company strategy and objectives flow from the executive level downwards. But *alignment* is achieved from the bottom-up. Once the company strategy has been scrunitised, set and communicated, I enable teams and departments to set their own strategy and objectives that feed in (ownership!). 
 
