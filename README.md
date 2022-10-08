@@ -70,16 +70,14 @@ I try to keep weekly 1-1s and use that time to focus on the person, not the busi
 
 Teams change the world, and so my leadership strives to be 'team-first'. I try to optimise for teams at every level: by hiring collaborative people, by setting cultural standards for inclusion, insisting on candid communication, and by empowering groups to take ownership.
 
-Great teams are rare! Leaders need to set the right conditions, which is very hard, but the people in the team also need to put in the work. Bruce Tuckman famously developed the model of 'Forming, Storming, Norming, and Performing', which describes how effective teams evolve. I refer to it often, and encourage all the teams I work with to think about it.
-
-When it goes right, the results are amazing. Great teams embrace responsibility and accountability, they are hungry for challenges and move fast. Best of all, they celebrate their wins, commiserate their losses, and challenge themselves to get better. If you work with me, I expect you to be 100% behind the team.
+When it goes right, the results are amazing. Great teams embrace responsibility, accountability and ownership. They are hungry for challenges and move fast. Best of all, they celebrate their wins, commiserate their losses, and challenge themselves to get better. I expect everyone I work with to be 100% behind the team.
 
 
 ## Systems
 
 *__Optimise for alignment, not control__*
 
-At scale communication become harder, coordination tends to break down, and departments fall into silos. It is impossible to fully mitigate these challenges, and executives cause damage when they create more processes, rules and meetings in response. The way out of this swamp is to focus on alignment. Systems thinking is a valuable toolset to manage these transitions and build scalable interfaces that deliver the outcomes the business wants. Not everyone can know everything, but everyone should know the company's strategy and be armed with enough context to do their job.
+At scale communication become harder, coordination tends to break down, and departments can slip into silos. A common response is for executives to create more processes, rules and meetings... but this causes even more damage. The way out of this swamp is to accept that scale has tradeoffs, and focus on *alignment*. I coach teams to think in terms of [systems](https://www.youtube.com/watch?v=OqEeIG8aPPk), and build scalable interfaces that deliver the outcomes the business wants. Not everyone can know everything, but everyone needs to know the company's strategy, and be armed with enough context to be effective and create impact.
 
 
 
@@ -89,15 +87,10 @@ At scale communication become harder, coordination tends to break down, and depa
 
 Although plans never work out the way we hoped, the act of planning is how we decide what's important and where we should focus our efforts. Good strategy defines a clear problem and describes how the organisation intends to solve it. Done well, it results in focus, alignment, and objectives, all of which are essential for successful execution. 
 
-Company strategy and objectives flow from the executive level downwards. But *alignment* is achieved from the bottom-up. Once the company strategy has been scrunitised, set and communicated, I enable teams and departments to set their own strategy and objectives that feed in (ownership!). 
+My view is that company strategy and objectives flow from the executive level downwards. But *alignment* is achieved from the bottom-up. Once the company strategy has been scrunitised, set and communicated, I enable teams and departments to set their own strategy and objectives that feed in (ownership!). 
 
 __OKRs__ follow naturally from strategy. Their purpose is to maximise ambition, ownership, alignment, focus, and accountability over a 2-3m period. They are not a measure of team performance, and never a stick to beat people with. I like OKRs, but others frameworks exist.
 
-__Good Books:__
-
- __Strategy:__ [Good Strategy/Bad Strategy by Richard Rumelt](https://www.amazon.co.uk/Good-Strategy-Bad-Difference-Matters/dp/1846684811 "Amazon Link")
- 
-__OKRs:__ [Measure What Matters](https://www.amazon.co.uk/Measure-What-Matters-Simple-Drives/dp/B07JKF24C1/ "Amazon Link") (the classic)
 
 
 ## Execution & Learning
@@ -107,7 +100,7 @@ __OKRs:__ [Measure What Matters](https://www.amazon.co.uk/Measure-What-Matters-S
 
 
 ## Recommended Reading / Watching / Listening
-Below are some of the other books and artworks I often recommend.
+*  __Strategy:__ [Good Strategy/Bad Strategy by Richard Rumelt](https://www.amazon.co.uk/Good-Strategy-Bad-Difference-Matters/dp/1846684811 "Amazon Link")
+* __OKRs:__ [Measure What Matters by John Doerr](https://www.amazon.co.uk/Measure-What-Matters-Simple-Drives/dp/B07JKF24C1/ "Amazon Link") (the classic)
+* __Systems Thinking:__ [Russ Ackoff on Youtube!](https://www.youtube.com/watch?v=OqEeIG8aPPk)
 * 
-
-
