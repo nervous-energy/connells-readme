@@ -67,7 +67,7 @@ I try to keep weekly 1-1s and use that time to focus on the person, not the busi
 
 ## Teams
 
-__Great companies aren't defined by heroic individuals, they are defined by incredible teams__
+*__Great companies aren't defined by heroic individuals, they are defined by incredible teams__*
 
 Teams change the world, and so my leadership strives to be 'team-first'. I try to optimise for teams at every level: by hiring collaborative people, by setting cultural standards for inclusion, insisting on candid communication, and by empowering groups to take ownership.
 
