@@ -2,6 +2,8 @@
 
 This document outlines how I think about leadership, strategy, people and culture. The principles I describe are *ideals*, and I often fall short. I am, and always will be a student, with much to learn.
 
+*© Connell Locke 2022. All rights reserved. v0.9*
+
 ---
 
 ## About me
@@ -129,4 +131,4 @@ The Lord of the Rings; The Expanse (books & TV); Culture series by Iain M Banks;
 I've been fortunate to have coaching and counsel from several great people. Dr Pepe Catlan, Bruno Tavares, Douglas Squirrel, Julia Hawkins & Steve Beck. Plus a ton of feedback and inspiration from the excellent product leaders and engineers I've worked with. I'm indebted to you all, thank you.
 
 
-*© Connell Locke 2022. All rights reserved. v0.9 *
+*© Connell Locke 2022. All rights reserved. v0.9*
