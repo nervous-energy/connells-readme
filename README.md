@@ -2,9 +2,9 @@
 
 *© Connell Locke 2022. All rights reserved*
 
-__Intro:__
+*This document outlines how I think about leadership, strategy and people management. The principles I describe are ideals, and I often fall short! I am, and always will be a student, with much to learn, so this is a living document whose contents will change over time.*
 
-This readme outlines how I think about leadership, strategy and people management. The principles I describe are ideals, and I often fall short! I am, and always will be a student, with much to learn, so this is a living document whose contents will change over time.
+---
 
 ## About me
 I'm Connell. I was born and raised in Belfast, but have lived in London for more than 10 years. I trained as a medical doctor before branching into software engineering, product and entrepreneurship. Though today medicine takes up only a small fraction of my time, it is a huge part of who I am, and how I think. 
