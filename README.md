@@ -88,19 +88,17 @@ At scale communication become harder, coordination tends to break down, and depa
 
 *__"Plans are worthless, but planning is everything." - Dwight D. Eisenhower__*
 
-Although Plans never work out the way we hoped, but the act of planning is how we decide what's important, and where we will focus our efforts. Good strategy defines a clear problem and describes how the organisation intends to solve it. Done well, it creates focus and alignment, and enables goal-setting, all of which are essential for successful execution. 
+Although plans never work out the way we hoped, but the act of planning is how we decide what's important and where we should focus our efforts. Good strategy defines a clear problem and describes how the organisation intends to solve it. Done well, it results in focus, alignment, and objectives, all of which are essential for successful execution. 
 
-Company strategy and objectives flow from the executive level downwards. But *alignment* is achieved from the bottom-up. Once the company strategy has been scrunitised and communicated, I enable teams and departments to set their own strategy and objectives (ownership!). 
+Company strategy and objectives flow from the executive level downwards. But *alignment* is achieved from the bottom-up. Once the company strategy has been scrunitised, set and communicated, I enable teams and departments to set their own strategy and objectives that feed in (ownership!). 
 
 __OKRs__ follow naturally from strategy. Their purpose is to maximise ambition, ownership, alignment, focus, and accountability over a 2-3m period. They are not a measure of team performance, and never a stick to beat people with. I like OKRs, but others frameworks exist.
 
-__References:__
+__Good Books:__
 
  __Strategy:__ [Good Strategy/Bad Strategy by Richard Rumelt](https://www.amazon.co.uk/Good-Strategy-Bad-Difference-Matters/dp/1846684811 "Amazon Link")
  
-__OKRs:__ [Measure What Matters](https://www.amazon.co.uk/Measure-What-Matters-Simple-Drives/dp/B07JKF24C1/ "Amazon Link")
-
-^^very popular texts!
+__OKRs:__ [Measure What Matters](https://www.amazon.co.uk/Measure-What-Matters-Simple-Drives/dp/B07JKF24C1/ "Amazon Link") (the classic)
 
 
 ## Execution & Learning
