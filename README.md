@@ -96,6 +96,7 @@ This is summary only, there is a lot more to this topic, including: the scope of
 
 References:
  __Strategy:__ [Good Strategy/Bad Strategy by Richard Rumelt](https://www.amazon.co.uk/Good-Strategy-Bad-Difference-Matters/dp/1846684811 "Amazon Link")
+ 
 __OKRs:__ [Measure What Matters](https://www.amazon.co.uk/Measure-What-Matters-Simple-Drives/dp/B07JKF24C1/ "Amazon Link")
 
 ^^very popular texts!
