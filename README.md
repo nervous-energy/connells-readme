@@ -94,13 +94,17 @@ __OKRs__ follow naturally from strategy. Their purpose is to __enable execution_
 
 
 ## Execution & Learning
-Every tech company and team *says* they are Agile, but it's very hard to achieve and sustain (I have plenty of scars, and have learned a lot from great PMs, TPMs and experienced engineers!). 
+Every tech company and team *says* they are 'Agile', but the truth is usually different. Achiving a steady rhythm of build-measure-learn is very difficult, I have plenty of scars. Fortunately I have learned a lot from great PMs, TPMs and engineers.
 
-"Agile" gets conflated with 'Scrum', 'Lean', 'SAFE' and other (complex) frameworks. It's none of these things. It's a problem solving philosophy that encourages us to focus on value, deliver it incrementally and quickly, get feedback / learn, and repeat the cycle. Frameworks can offer a way to implement agile principles, but ['don't mistake the finger pointing at the moon for the moon.'](https://www.goodreads.com/quotes/843488-bhikkhus-the-teaching-is-merely-a-vehicle-to-describe-the). We can always challenge ourselves to be more agile: to learn faster, correct course, and deliver impact.
+One of the first things worth saying about 'Agile' is that it shouldn't be conflated with 'Scrum', 'Lean,' 'SAFE', or any other (complex) framework. It's far more simple: it's a set of problem-solving principles that tell us to focus on the outcome we want to achieve, and then move towards it incrementally by testing and improving our ideas as quickly as possible. Agile __reduces strategic risk__ because short cycles of innovation enable teams to *learn faster* and change direction. Frameworks offer a way to implement agile principles, but ['don't mistake the finger pointing at the moon for the moon.'](https://www.goodreads.com/quotes/843488-bhikkhus-the-teaching-is-merely-a-vehicle-to-describe-the). Agile methods can be applied in any setting or department, but adoption requires leadership buy-in, clear strategic focus, and empowered teams.
+
+If you're a PM or engineer, I'll constantly ask: "How can we shorten the feedback loop? What are we learning? What is the key metric? What is our most risky assumption to test?". Teams must own their objectives, optimise for fast iterations, and be committed to learning and iteration. Investment in application observability is not optional, teams must know how users are interacting with their product, and know which metric is most important. Design has a huge role to play, since most product ideas can be partially tested without the need to write any code (See 'Inspired' by Marty Cagan, linked at the end). Therefore PMs and designers must be hand-in-glove with each other, and hands-on with users as often as possible.
+
+I've been fortunate to introduce this thinking to other departments outside of Product-Engineering. In one example a marketing team adopted the practice of structured retros each time they hosted an event. This simple change generated a wealth of learnings and created a flywheel of improvements in how events where run: where to seat people, how to handle attendee registration, when to pitch, when to schedule entertainment, what metrics to track success, and so on. 
 
 
 ## Culture
-Culture matters as much as __anything__ else. Great people want to work in organisations that are mission-driven, fun, psychologically safe, and *challenging*. I expect everyone in my team to want these things and live these values, anything less than this is a red flag. 
+Culture matters as much as __anything__ else. The best talent wants to work in organisations that are mission-driven, fun, psychologically safe, and *challenging*. I expect everyone in my team to want these things and live these values, anything less than this is a red flag. 
 
 ## Recommended Reading / Watching / Listening / Following
 Most of these are well-known classics. Don't be afraid to skim.
