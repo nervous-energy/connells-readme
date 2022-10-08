@@ -1,4 +1,6 @@
-# Connell's Executive ReadMe [WIP] (c) All rights reserved 
+# Connell's Executive ReadMe [WIP] 
+
+*(c) All rights reserved *
 
 
 #### Intention
