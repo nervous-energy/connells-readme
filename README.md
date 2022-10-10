@@ -7,23 +7,21 @@ This document outlines how I think about leadership, strategy, people and cultur
 ---
 
 ## About me
-I'm Connell. I was born and raised in Belfast, but have lived in London for more than 10 years. I trained as a medical doctor before branching into software engineering, product and entrepreneurship. Though today medicine takes up only a small fraction of my time, it is a huge part of who I am, and how I think. 
+I'm Connell. I'm originally from Belfast, but have lived in London for 10 years. I trained as a medical doctor before branching into software engineering, product and entrepreneurship. Though today medicine takes up only a small fraction of my time, it is a huge part of who I am, and how I think. 
 
 
 ## Algorithms & ICU
 
-I once worked for an ICU consultant with an acerbic wit, and who only ever wore shorts – no matter the weather or time of year*. One day, over coffee in the department (wearing shorts) the team was discussing a difficult case when he suddenly declared: "Medicine is easy! just make sure the air is going in and out, and the blood is going round and round!" There was much laughter. The next day I needed his help with a deteriorating patient:
-
+I once worked for an ICU consultant with an acerbic wit, and who only ever wore shorts – no matter the weather or time of year*. One day, over coffee in the department a different doctor regaled us with rare and difficult cases from his past, each one solved by some stupendous insight by the narrator. As junior doctors we sat and listening politely. Once it was over and House MD had left, the man in shorts turned to us and declared: "Look, medicine is actually quite easy: you just make sure the air is going in and out, and the blood is going round and round!" There was much laughter. The next day I needed his help with a deteriorating patient:
 
 ```
-ME (worried): I need help... cardiac failure... GI bleed... [blah blah ...]
+ME (worried): I need help... ...has cardiac failure... GI bleed... [blah blah ...]
 CONSULTANT (impassive): Is the air going in and out?
 ME: (confused) ...uh, yeah...
 CONSULTANT: Good. Is the blood going round and round?
 Me: ...uh, well he's been transfused 9 units and the blood pressur –
 CONSULTANT (interrupting): Make the blood go round and round!
 ```
-
 
 I couldn't see it at the time, but he was on to something. The problem *was* complex, with lots of details, numbers and plot twists. But on another, deeper level, it was quite simple: the patient will die if they can't breath or if their blood pressure crashes. In a crisis I was being reminded of the basics: airway, breathing, circulation. 
 
@@ -33,10 +31,10 @@ I couldn't see it at the time, but he was on to something. The problem *was* com
 
 ## It's a Craft
 
-This early lesson in algorithmic thinking was hammered home to me many more times as a doctor. Clinical practice is about recognising patterns and approaching problems in a structured way. But the profession is anything but robotic – good doctors understand people. The *craft* of medicine is about __combining knowledge and technical skill with difficult, high-stakes conversations__. The same lessons hold true in business leadership.
+This early lesson was hammered home to me many more times as a doctor. Clinical practice is about recognising patterns and approaching problems in a structured way. But the profession is anything but robotic – good doctors also understand people. The *craft* of medicine is about __combining knowledge and technical skill with difficult, high-stakes conversations__. The same lessons hold true in business leadership.
 
 #### A diagnostic pathway for businesses:
-From experience I think most of the big organisational problems can be diagnosed by asking the following:
+From experience I think most big organisational problems can be diagnosed by asking the following questions:
 
 |               | Question                        |
 | --------------|---------------------------------|
@@ -55,14 +53,14 @@ Organisations that get these things right, win.
 ## Leadership
 *__Great leaders serve.__*
 
-The archetype of the all-seeing, all-powerful, executive is bullshit. Steve Jobs and Elon Musk are extraordinary, but they are too often venerated in a way that shows no understanding of their actual gifts, and total ignorance of their weaknesses. 
+The archetype of the all-seeing, all-powerful executive is bullshit. Steve Jobs and Elon Musk are extraordinary, but they are too often venerated in a way that shows no understanding of their actual gifts, and total ignorance of their weaknesses. 
 
-The role of leader isn't to wield power, but to distribute it. I can't amass all the information and make every call, instead I scale my time by empowering others, and ensuring decisions are made at the right level by the people with the right expertise and context. This means my goal is to find great people, enable them to do their best work, and support them to grow. I do all of this in the context of the team (discussed below).
+The role of leader isn't to wield power, but to distribute it. I can't amass all the information and make every call, instead I scale my time by empowering others, and ensuring decisions are made at the right level – by the people with the right expertise and context. This means my job as a leader is to find great people, enable them to do their best work, and help to grow. I do all of this in the context of the team (discussed below).
 
-I try to keep weekly 1-1s and use that time to focus on the person, not the business. There is more to life than work, though one influences the other, so I'm interested in your personal life, if you're willing to share. I care about your family, interests, hobbies, what you did on the weekend and so on. When it comes to work I'll ask you to bring any problems you have, and we'll work through them together. I'll set expectations about your role, give feedback when I think something should be better, and set goals with you. I want every person to have the opportunity to be challenged, thrive and grow. Psychology safety and trust is paramount. As I am candid with you, I expect no less in return! The most important feedback of my career has come from the people I have managed.
+I try to keep weekly 1-1s and use that time to focus on the employee, not the business. There is more to life than work, though one influences the other, so I'm interested in your personal life, as long as you're willing to share. I care about your family, interests, hobbies, what you did on the weekend and so on. When it comes to work I'll ask you to bring any problems you have, and we'll work through them together. I'll set expectations about your role, give feedback when I think something should be better, and set goals with you. I want every person to have the opportunity to be challenged, thrive and grow. Psychology safety and trust is paramount. As I am candid with you, I expect no less in return! The most important feedback of my career has come from the people I have managed.
 
 #### Being Let Go
-Sometimes it doesn't work out. Being let go is not easy, its emotionally painful and creates personal uncertainty. My goal when making these hard decisions is to optimise for you. First, it should never be a surprise. If I'm not giving clear feedback and setting expectations, I am failing. Second, when the decision is made, I will do what I can to support you. Your dignity matters, and just because it hasn't worked out in one place, doesn't mean you won't succeed elsewhere. I have exited several people who have gone on to have flourishing careers in other companies. After exit, I am still available to you if you would like feedback from me, or to give me feedback.
+Sometimes it doesn't work out. Being let go is not easy, its emotionally painful and creates personal uncertainty. My goal when dealing with these hard decisions is to optimise for you. First, it should never be a surprise. If I'm not giving clear feedback and setting expectations, I am failing. Second, when the decision is made, I will do what I can to support you. Your dignity matters, and just because it hasn't worked out in one place, doesn't mean you won't succeed elsewhere. I have exited several people who have gone on to have flourishing careers in other companies. After exit, I am still available to you if you would like feedback from me, or to give me feedback.
 
 
 ## Teams
@@ -124,7 +122,7 @@ Most of these are well-known classics. Don't be afraid to skim.
 * __Biography:__ [Boyd: The fighter pilot who changed the art of war](https://www.amazon.co.uk/Boyd-Fighter-Pilot-Who-Changed/) (inventor of the OODA loop... *maybe partially responsible for brexit?*)
 
 __Others__
-The Lord of the Rings; The Expanse (books & TV); Culture series by Iain M Banks; The Three Body Problem; The Rest is History Podcast; Beethoven, especially 6th,7th,9th; Koyaanisqatsi; War of Art; Gates of Fire; Scruton Why Beauty Matters;  vgdunkey; Branagh as Henry V; Orwell; Hemmingway; Hyperion Cantos; Hitchens; Harris; Stewart Lee; The Count of Monte Christo; Surely you're joking Mr Feynman!; Dune; S. Heaney - Cure at Troy & Postscript; The beginning of infinity; Colm Tóibín; Doyle: A star called Henry;
+The Lord of the Rings; The Expanse (books & TV); Culture series by Iain M Banks; The Three Body Problem; The Rest is History Podcast; Beethoven, especially 6th,7th,9th; Koyaanisqatsi; War of Art; Gates of Fire; Scruton: Why Beauty Matters;  vgdunkey; Branagh as Henry V; Orwell; Hemmingway; Hyperion Cantos; Hitchens; Harris; Stewart Lee; The Count of Monte Christo; Surely you're joking Mr Feynman!; Dune; S. Heaney - Cure at Troy & Postscript; The beginning of infinity; Colm Tóibín; Doyle: A star called Henry;
 
 
 ## Acknowledgements
