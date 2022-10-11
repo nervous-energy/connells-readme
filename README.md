@@ -128,7 +128,7 @@ The Lord of the Rings; The Expanse (books & TV); Culture series by Iain M Banks;
 
 
 ## Acknowledgements
-I've been fortunate to have coaching and counsel from several great people. Dr Pepe Catlan, Bruno Tavares, Douglas Squirrel, Devin Hunt, Julia Hawkins & Steve Beck. Plus a ton of feedback and inspiration from the excellent operators, product leaders and engineers I've worked with. I'm indebted to you all, thank you.
+I've been fortunate to have coaching and counsel from several great people. Dr Pepe Catalan, Bruno Tavares, Douglas Squirrel, Devin Hunt, Julia Hawkins & Steve Beck. Plus a ton of feedback and inspiration from the excellent operators, product leaders and engineers I've worked with. I'm indebted to you all, thank you.
 
 
 *© Connell Locke 2022. All rights reserved. 1.0*
