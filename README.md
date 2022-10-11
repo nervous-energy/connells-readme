@@ -2,7 +2,7 @@
 
 This document outlines how I think about leadership, strategy, people and culture. The principles I describe are *ideals*, and I often fall short. I am, and always will be a student, with much to learn.
 
-*© Connell Locke 2022. All rights reserved. v1.0*
+*v1.0*
 
 ---
 
