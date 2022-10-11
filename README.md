@@ -1,6 +1,6 @@
 # Connell's Manager Readme
 
-This document outlines how I think about leadership, strategy, people and culture. The principles I describe are *ideals*, and I often fall short. I am, and always will be a student, with much to learn.
+This doc is my manager 'readme'. It outlines how I think about leadership, strategy, people and culture. The principles I describe are *ideals*, and I often fall short. I am, and always will be a student, with much to learn.
 
 *v1.0*
 
@@ -124,7 +124,7 @@ Most of these are well-known classics. Don't be afraid to skim.
 * __Biography:__ [Boyd: The fighter pilot who changed the art of war](https://www.amazon.co.uk/Boyd-Fighter-Pilot-Who-Changed/) (inventor of the OODA loop... *maybe partially responsible for brexit?*)
 
 __Others__
-The Lord of the Rings; The Expanse (books & TV); Culture series by Iain M Banks; The Three Body Problem; The Rest is History Podcast; Beethoven, especially 6th,7th,9th; Koyaanisqatsi; War of Art; Gates of Fire; Scruton: Why Beauty Matters;  vgdunkey; Branagh as Henry V; Orwell; Hemmingway; Hyperion Cantos; Hitchens; Harris; Stewart Lee; The Count of Monte Christo; Surely you're joking Mr Feynman!; Dune; S. Heaney - Cure at Troy & Postscript; The beginning of infinity; Colm Tóibín; Doyle: A star called Henry;
+The Lord of the Rings; The Expanse (books & TV); Culture series by Iain M Banks; The Three Body Problem; The Rest is History Podcast; Beethoven, especially 6th,7th,9th; Koyaanisqatsi; War of Art; Gates of Fire; Scruton: Why Beauty Matters;  vgdunkey; Branagh as Henry V; Orwell; Hemmingway; Hyperion Cantos; Hitchens; Harris; Stewart Lee; The Count of Monte Christo; Anything Apollo; Surely you're joking Mr Feynman!; Dune; S. Heaney - Cure at Troy & Postscript; The beginning of infinity; Colm Tóibín; Doyle: A star called Henry;
 
 
 ## Acknowledgements
