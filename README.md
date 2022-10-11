@@ -1,6 +1,6 @@
 # Connell's Manager Readme
 
-This doc is my manager 'readme'. It outlines how I think about leadership, strategy, people and culture. The principles I describe are *ideals*, and I often fall short. I am, and always will be a student, with much to learn.
+This document is my manager 'readme'. It outlines how I think about leadership, strategy, people and culture. The principles I describe are *ideals*, and I often fall short. I am, and always will be a student, with much to learn.
 
 *v1.0*
 
@@ -128,7 +128,7 @@ The Lord of the Rings; The Expanse (books & TV); Culture series by Iain M Banks;
 
 
 ## Acknowledgements
-I've been fortunate to have coaching and counsel from several great people. Dr Pepe Catalan, Bruno Tavares, Douglas Squirrel, Devin Hunt, Julia Hawkins & Steve Beck. Plus a ton of feedback and inspiration from the excellent operators, product leaders and engineers I've worked with. I'm indebted to you all, thank you.
+I've been fortunate to have coaching and counsel from several great people: Dr Pepe Catalan, Bruno Tavares, Douglas Squirrel, Devin Hunt, Julia Hawkins & Steve Beck (to name a few). I've also enjoyed a ton of feedback and inspiration from the excellent operators, product leaders and engineers I've worked with. I'm indebted to you all, thank you.
 
 
 *© Connell Locke 2022. All rights reserved. 1.0*
